@@ -1,0 +1,8 @@
+name: kinetics_2D
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - sympy
+  - matplotlib
+prefix: /home/cloison/anaconda3/envs/kinetics_2D
